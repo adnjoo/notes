@@ -1,1 +1,1 @@
-spread operator ES6 [...]
+spread operator ES6 [...] - combine or insert, at any index
